@@ -506,7 +506,3 @@ plt.show()
 # MAGIC #git commit -m "commit"
 # MAGIC
 # MAGIC git push origin main
-
-# COMMAND ----------
-
-print('hello')
